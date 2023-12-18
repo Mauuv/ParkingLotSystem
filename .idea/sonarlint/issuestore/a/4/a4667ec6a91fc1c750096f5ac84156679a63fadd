@@ -1,0 +1,9 @@
+
+y
+java:S1104"\Make gerenciadorTelas a static final constant or non-public and provide accessors if needed.(€¨Û‘8ïº¢˜Ç1
+r
+java:S3655y"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(  ÑÞýÿÿÿÿ8Œ»¢˜Ç1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8íÎ«˜Ç1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8íÎ«˜Ç1

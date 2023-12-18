@@ -1,0 +1,14 @@
+
+k
+java:S1192‚"HDefine a constant instead of duplicating this literal "veiculo" 3 times.(ßüñ£ùÿÿÿÿ8ÚïŞÔÇ1
+n
+java:S3655ö"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ñ™š½8ñŞÔÇ1
+s
+java:S3655Ç"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(åƒµôıÿÿÿÿ8ñŞÔÇ1
+p	java:S100˜"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¯Öüÿÿÿÿ8£ñŞÔÇ1
+u
+java:S6204ù"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ªçŸŠøÿÿÿÿ8µñŞÔÇ1
+p
+java:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Š¼Ã–8¸ñŞÔÇ1
+Y
+java:S1128"=Remove this unused import 'java.util.InputMismatchException'.(İ§18ÃñŞÔÇ1

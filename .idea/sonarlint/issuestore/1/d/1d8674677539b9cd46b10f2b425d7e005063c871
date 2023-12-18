@@ -1,0 +1,6 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8‡νΩΖ1
+o
+java:S2095"RUse try-with-resources or close this "EntityManagerFactory" in a "finally" clause.(ξ›ΐ8νΩΖ1
+t
+java:S2737,"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(φ™ϋ8‘νΩΖ1

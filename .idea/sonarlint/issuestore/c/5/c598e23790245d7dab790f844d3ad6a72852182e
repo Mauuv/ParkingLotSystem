@@ -1,0 +1,12 @@
+
+g	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ËŠ…›Ç1
+m
+java:S3655l"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¾Ø¼É8ÓŠ…›Ç1
+m
+java:S3655M"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ŠöÍ8ÓŠ…›Ç1
+m
+java:S3655d"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¾Ø¼É8ÓŠ…›Ç1
+]
+java:S1193S"@Replace the usage of the "instanceof" operator by a catch block.(¡¿ÕŠ8×Š…›Ç1
+L
+java:S2200t"/Only the sign of the result should be examined.(¿ª‹8ÚŠ…›Ç1

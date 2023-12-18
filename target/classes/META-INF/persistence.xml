@@ -1,0 +1,18 @@
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd" version="2.2">
+    <persistence-unit name="ProjetoFinal">
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+        <!--  Configurações do banco de dados  -->
+        <properties>
+            <property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
+            <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/estacionamento"/>
+            <property name="jakarta.persistence.jdbc.user" value="root"/>
+            <property name="jakarta.persistence.jdbc.password" value="root"/>
+            <!--  Configurações de hibernate  -->
+            <property name="hibernate.dialect" value="org.hibernate.dialect.MySQLDialect"/>
+            <property name="hibernate.show_sql" value="true"/>
+            <!--  Para mostrar as queries SQL no console  -->
+            <property name="hibernate.hbm2ddl.auto" value="none"/>
+            <!--  Atualiza automaticamente o esquema do banco de dados  -->
+        </properties>
+    </persistence-unit>
+</persistence>
